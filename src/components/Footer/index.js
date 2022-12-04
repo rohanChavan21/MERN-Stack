@@ -1,4 +1,5 @@
 import React from 'react'
+import { FooterContainer, FooterLink, FooterLinkItems, FooterLinkTitle, FooterLinksContainer, FooterLinksWrapper, FooterWrap } from './FooterElements'
 
 const Footer = () => {
   return (
